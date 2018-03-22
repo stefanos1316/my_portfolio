@@ -7,6 +7,7 @@ sudo: required
 dist: trusty
 
 before_script:
+  - supo apt-get install npm
   - sudo npm install -g gulp-cli
 script: bash tools/travis-deploy.sh
 
