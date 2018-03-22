@@ -1,0 +1,9 @@
+Packages ou must have
+=====================
+
+On Fedora
+$ dnf install npm
+$ npm install gulp-cli -g
+$ npm install gulp -D
+$ npm install require-dir
+$ npm install  
