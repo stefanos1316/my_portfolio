@@ -1,15 +1,15 @@
-language: nodejs
+language: node_js
+node_js:
+  - "iojs"
+  - "7"
 
 sudo: required
 dist: trusty
-install:
-- sudo apt-get install nodejs
-- sudo apt-get install npm
-- sudo npm install gulp-cli -g
-- sudo npm install gulp -D
+
+before_script:
+  - npm install -g gulp-cli
 script: bash tools/travis-deploy.sh
-after_success:
-  - coveralls
+
 env:
   global:
   - ENCRYPTION_LABEL: 1759e8df177c
