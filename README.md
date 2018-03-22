@@ -2,7 +2,7 @@
 
 Coded and developed by [Maxim Orlov](https://github.com/orlovmax).
 
-[Demo](http://stefanos1316.github.io/my_portfolio/)
+[Demo](http://stefanos1316.github.io/my_portfolio/build/index.html)
 
 ![Mockup demo](screenshots/pic.jpg)
 Product mockup created with [http://magicmockups.com/](http://magicmockups.com/)
