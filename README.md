@@ -1,8 +1,8 @@
-# Portfolio one page template - ARCHIVED
+# Regarding the repository 
 
-Flat and responsive website template, designed and coded by [Maxim Orlov](https://github.com/orlovmax). 
+Coded and developed by [Maxim Orlov](https://github.com/orlovmax).
 
-Demo: [http://website-templates.github.io/portfolio_one-page-template](http://website-templates.github.io/portfolio_one-page-template/)
+[Demo](http://stefanos1316.github.io/my_portfolio/)
 
 ![Mockup demo](screenshots/pic.jpg)
 Product mockup created with [http://magicmockups.com/](http://magicmockups.com/)
