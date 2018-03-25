@@ -777,6 +777,7 @@ a:hover {
 }
 
 .about-card__info p {
+	text-align: justify;
 	font-weight: lighter;
 }
 
