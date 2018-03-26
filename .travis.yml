@@ -1,6 +1,9 @@
 language: node_js
 node_js:
-  - "0.12"
+ - "0.12"
 before_script:
-  - npm install -g gulp
+- npm cache clean -f
+- sudo npm install -g n
+- sudo n stable
+- npm install -g gulp
 script: bash tools/travis-deploy.sh
