@@ -1,15 +1,12 @@
 language: node_js
-node_js:
- - "iojs"
- - "8"
+ - "7"
 
 sudo: required
 dist: trusty
 
-before_install:
-  - npm install gulp -g
+before_script:
+  - npm install -g gulp-cli
 
 script:
   - npm install
   - gulp test --verbose
-  - bash tools/travis-deploy.sh
