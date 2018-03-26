@@ -9,5 +9,4 @@ before_script:
 
 script:
   - npm install
-  - gulp rebuild 
-#- bash tools/travis-deploy.sh
+  - bash tools/travis-deploy.sh
