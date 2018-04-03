@@ -1,4 +1,5 @@
 build:
+	gulp start
 	gulp rebuild
 	gulp dev
 
