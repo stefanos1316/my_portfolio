@@ -10,3 +10,8 @@ before_script:
 script:
   - npm install
   - bash tools/travis-deploy.sh
+
+env:
+  global:
+  - ENCRYPTION_LABEL: 1759e8df177c
+  - COMMIT_AUTHOR_EMAIL: stefanos1316@gmail.com
