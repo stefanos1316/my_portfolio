@@ -38,7 +38,7 @@ git checkout $TARGET_BRANCH || git checkout --orphan $TARGET_BRANCH
 cd ..
 
 # Clean build existing contents
-rm -rf build/* || exit 0
+#rm -rf build/* || exit 0
 
 # Run our compile script
 doCompile
@@ -67,7 +67,7 @@ ENCRYPTED_KEY_VAR="encrypted_${ENCRYPTION_LABEL}_key"
 ENCRYPTED_IV_VAR="encrypted_${ENCRYPTION_LABEL}_iv"
 ENCRYPTED_KEY=${!ENCRYPTED_KEY_VAR}
 ENCRYPTED_IV=${!ENCRYPTED_IV_VAR}
-openssl aes-256-cbc -K $encrypted_dc3e238ed4e4_key -iv $encrypted_dc3e238ed4e4_iv -in ../deploy_key_cv.enc -out deploy_key_cv -d
+openssl aes-256-cbc -K $encrypted_1759e8df177c_key -iv $encrypted_1759e8df177c_iv -in ../deploy_key_cv.enc -out deploy_key_cv -d
 
 if [ -n "$DEBUG" ] ; then
   set -x
