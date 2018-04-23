@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/stefanos1316/my_portfolio.svg?branch=master)](https://travis-ci.org/stefanos1316/my_portfolio)
 
-# Regarding the repository
+# About the repository
 
 Coded and developed by [Maxim Orlov](https://github.com/orlovmax).
 Extended by Stefanos I. Georgiou.
