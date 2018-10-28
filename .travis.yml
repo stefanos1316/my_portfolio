@@ -7,7 +7,6 @@ dist: trusty
 before_script:
   - npm install -g gulp-cli
   - npm install gulp@3.9.0
-
 script:
   - npm install
   - bash tools/travis-deploy.sh
