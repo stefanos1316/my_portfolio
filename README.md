@@ -3,7 +3,7 @@
 # About the repository
 
 Coded and developed by [Maxim Orlov](https://github.com/orlovmax).
-Extended by Stefanos I. Georgiou.
+Extended by Stefanos Georgiou.
 
 [My portoflio](http://stefanos1316.github.io/my_portfolio/index.html) works with GitHub pages and it is powerd by Gulp.js and StyleSheet Langauges (Sass).
 In the portoflio you can find the following links:
