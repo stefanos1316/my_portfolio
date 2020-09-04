@@ -38,7 +38,7 @@
     "deep-extend": "^0.6.0",
     "fstream": "^1.0.12",
     "gulp-sass": "^3.1.0",
-    "handlebars": "^4.1.2",
+    "handlebars": "^4.4.5",
     "hoek": "^5.0.3",
     "lodash": "^4.17.14",
     "lodash.merge": "^4.6.2",
