@@ -41,7 +41,7 @@
     "fstream": "^1.0.12",
     "gulp-cli": "^2.3.0",
     "gulp-sass": "^3.1.0",
-    "handlebars": "^4.7.6",
+    "handlebars": "^4.7.7",
     "hoek": "^5.0.3",
     "http-proxy": "^1.18.1",
     "ini": "^2.0.0",
