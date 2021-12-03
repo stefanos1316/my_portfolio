@@ -47,7 +47,7 @@
     "ini": "^2.0.0",
     "jpeg-js": "^0.4.2",
     "kind-of": "^6.0.3",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "lodash.merge": "^4.6.2",
     "lodash.template": "^4.5.0",
     "mime": "^2.3.1",
